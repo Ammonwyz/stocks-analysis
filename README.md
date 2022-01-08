@@ -2,34 +2,29 @@
 Performing the analysis on All stocks for 
 
 ## Overview of Project:
-
-## Analysis and Challenges:
-### Analysis of Outcomes Based on Launch Date
-
-![image_name]()
-### Analysis of Outcomes Based on Goals
-
-![image_name]()
-### Challenges and Difficulties Encountered
+The purpose and background are well defined
 
 
 ## Results:
+The analysis is well described with screenshots and code 
+Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-* What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+* Original script
 
+![image_name]()
 
-* What can you conclude about the Outcomes based on Goals?
-
-
-* What are some limitations of this dataset?
-
+* refactored script
+![image_name]()
 
 
 * What are some other possible tables and/or graphs that we could create?
 
 
-## Recommendations
-1. 
-2. 
-3. 
+## Summary
+1. Advantages and disadvantages of refactoring code in general
+
+
+2. Advantages and disadvantages of the original and refactored VBA script
+
+
 
