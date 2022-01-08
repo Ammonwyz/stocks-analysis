@@ -11,13 +11,13 @@ Using images and examples of your code, compare the stock performance between 20
 
 * Original script
 
-![image_name]()
+* Refactored script
 
-* refactored script
-![image_name]()
+![image_name](https://github.com/Ammonwyz/stocks-analysis/blob/1f53dfd227a974cd94f05e9bdf5025f7a65bd59e/VBA_Challenge_2017.png)
 
 
-* What are some other possible tables and/or graphs that we could create?
+![image_name](https://github.com/Ammonwyz/stocks-analysis/blob/1f53dfd227a974cd94f05e9bdf5025f7a65bd59e/VBA_Challenge_2018.png)
+
 
 
 ## Summary
