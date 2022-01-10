@@ -10,7 +10,7 @@ The analysis is well described with screenshots and code
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 * Original script
-
+2017
 
 
 * Refactored script
