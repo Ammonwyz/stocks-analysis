@@ -1,13 +1,12 @@
 # Stocks-Analysis
-Performing the analysis on All stocks for Steve's family by using VBA. 
+  Performing the analysis on All stocks for Steve's family by using VBA. 
 
 ## Overview of Project:
-The purpose of this project is that to extract and analyze the data of stocks in 2017 and 2018 through VBA. The results can us to understand the implementation and expected development of stocks. Help Steve's parents know how to make the right investments.
+  The purpose of this project is that to extract and analyze the data of stocks in 2017 and 2018 through VBA. The results can us to understand the implementation and expected development of stocks. Help Steve's parents know how to make the right investments.
 The original VBA macro was only for the target processing data of 12 stocks. For efficient analysis of more data, it is necessary to refactor.
 
 ## Results:
-The analysis is well described with screenshots and code 
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+  By refactoring the code, it can be seen that the execution time has decreased from 0.7 and 0.8 seconds to 0.2 and 0.3 seconds. In the original macro, the code repeatedly read the data to analyze and output it as instructed. In the improved program, because of the index used, only one side of the data needs to be read, and then different analyses and outputs are performed, so the running time is saved.
 
 * Original script
 
