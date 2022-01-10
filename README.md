@@ -12,11 +12,11 @@ Using images and examples of your code, compare the stock performance between 20
 * Original script
 2017
 
-![image_name](Original VBA 2017.png)
+![image_name](https://github.com/Ammonwyz/stocks-analysis/blob/0a46e854ab4fb130cc9fb1e86de0ceced8208daf/Original%20VBA%202017.png)
 
 2018
 
-![image_name](Original_VBA_2018.png)
+![image_name](https://github.com/Ammonwyz/stocks-analysis/blob/0a46e854ab4fb130cc9fb1e86de0ceced8208daf/Original%20VBA%202018.png)
 
 
 * Refactored script
