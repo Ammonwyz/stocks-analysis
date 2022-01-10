@@ -32,13 +32,13 @@ The original VBA macro was only for the target processing data of 12 stocks. For
 ## Summary
 1. Advantages and disadvantages of refactoring code in general
 
-=Advantages=: It runs fast and can analyze big data.
+** Advantages: It runs fast and can analyze big data.
 
-=Disadvantages=: Code requires high memory and is not easy to read.
+** Disadvantages: Code requires high memory and is not easy to read.
 
 2. Advantages and disadvantages of the original and refactored VBA script
 
-=Advantages=:The structure is clear and easy to understand and read when using.
+** Advantages:The structure is clear and easy to understand and read when using.
 
-=Disadvantages=: Complex to run, slow, not suitable for large amounts of data
+** Disadvantages: Complex to run, slow, not suitable for large amounts of data
 
