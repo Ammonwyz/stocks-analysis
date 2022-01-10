@@ -10,9 +10,10 @@ The analysis is well described with screenshots and code
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 * Original script
+
 2017
 
-![image_name](https://github.com/Ammonwyz/stocks-analysis/blob/0a46e854ab4fb130cc9fb1e86de0ceced8208daf/Original%20VBA%202017.png)
+![image_name](https://github.com/Ammonwyz/stocks-analysis/blob/15bae4f73eb008fb55e5e5c15b56be060519ccd0/Original%20VBA%202017.png)
 
 2018
 
