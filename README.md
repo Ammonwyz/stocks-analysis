@@ -11,6 +11,10 @@ Using images and examples of your code, compare the stock performance between 20
 
 * Original script
 2017
+![image_name](Original VBA 2017.png)
+
+2018
+![image_name](Original VBA 2018.png)
 
 
 * Refactored script
